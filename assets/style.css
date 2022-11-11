@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans&family=Chakra+Petch:wght@300&family=Comfortaa:wght@300;400&family=Fredoka+One&family=Fredoka:wght@300&family=Lobster&family=Open+Sans:wght@300&family=Press+Start+2P&family=Roboto&family=Signika&display=swap');
+
+body{
+    background-color: black;
+}
+
+h1{
+margin: auto;
+text-align: center;
+font-family: 'Press Start 2P', cursive;
+font-size: 50px;
+padding-top: 100px;
+color: white;
+transition-duration: 5s;
+}
+
+
+
+div{
+    border-radius: 20%;
+    margin: auto;
+    text-align: center;
+}
+
+img{
+    width: 18%;
+    border-radius: 30%;
+    margin-top: 80px;
+}
